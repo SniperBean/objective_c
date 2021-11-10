@@ -1,3 +1,7 @@
+### customized ###
+*.o
+*.idea
+
 ### macOS ###
 # General
 .DS_Store
